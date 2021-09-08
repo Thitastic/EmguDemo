@@ -1,0 +1,2 @@
+# EmguDemo
+Demo for emgu 
